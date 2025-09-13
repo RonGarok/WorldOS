@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/worldos/.config/autostart/startup.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=WorldOS Startup
+Comment=Launch WorldOS desktop components
